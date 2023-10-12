@@ -1,0 +1,180 @@
+Auteur: pl89vsa
+Date: 05.10.2023
+Entreprise: DGEP
+Description: Million
+
+Voici les ordres du programme Million  :
+	//Ajoutez ici vos ordres, par exemple : 
+	Afficher "En quelle année est né le langage Cosmos ?\n".
+	
+	Afficher "A. En 1934		B. En 2001\n".
+	Afficher "C. En 2016		D. En 2019\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Créer une zone mémoire nommée #reponse.
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "D" alors
+		Afficher "Bravo, vous êtes sur le chemin du million !".
+		
+		//Deuxième question
+		Afficher "\n\nCosmos est un langage de programmation proche de ?\n\n" .
+		
+		Afficher "A. La langue française		B. L'allemagne\n".
+		Afficher "C. La langue Russe		D. Rien\n".
+		
+		Afficher "\nVotre réponse: ".
+		
+		Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+		
+		Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "A" alors
+			Afficher "Bravo, vous continuez sur le chemin du Million !".
+			
+			//Et ainsi de suite pour les autres questions
+			//Troisième question question
+	Afficher "\n\nQuel est le plus grand organe du corps humain ?\n\n" .
+	
+	Afficher "A. Le cerveau			B. Le foie\n".
+	Afficher "C. Les poumons		D. La peau\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "D" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		et sinon
+		//Quatrième question
+	Afficher "\n\nQuel est le gaz le plus abondant dans l'atmosphère terrestre ?\n\n" .
+	
+	Afficher "A. Oxygène				B. Azote\n".
+	Afficher "C. Dioxyde de carbone		D.  Hélium\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "B" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		//cinquième question
+	Afficher "\n\nQui a écrit le roman 1984 ?\n\n".
+	
+	Afficher "A. George Orwell				B. Aldous Huxley\n".
+	Afficher "C. Ray Bradbury		D.  F. Scott Fitzgerald\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "A" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		//Sixième question
+	Afficher "\n\nQuel est le plus grand animal terrestre au monde ?\n\n".
+	
+	Afficher "A. Éléphant		B. Girafe\n".
+	Afficher "C. Rhinocéros		D. Hippopotame\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "A" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		//Septième question
+	Afficher "\n\nQuel est le plus grand océan de la Terre ?\n\n" .
+	
+	Afficher "A. Océan Atlantique	B. Océan Arctique\n".
+	Afficher "C. Océan Indien		D. Océan Pacifique\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "D" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		//Huitième question
+	Afficher "\n\nQuel est le plus grand océan de la Terre ?\n\n" .
+	
+	Afficher "A. Hg		B. He\n".
+	Afficher "C. Ho		D. H\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "D" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		//Neuvième question
+	Afficher "\n\nQuel est le pays le plus grand en termes de superficie ?\n\n" .
+	
+	Afficher "A. Russie			B. Canada\n".
+	Afficher "C. États-Unis		D. Chine\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "A" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		//Neuvième question
+	Afficher "\n\nQuel est le pays le plus grand en termes de superficie ?\n\n" .
+	
+	Afficher "A. Russie			B. Canada\n".
+	Afficher "C. États-Unis		D. Chine\n".
+	
+	Afficher "\nVotre réponse: ".
+	
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #reponse.
+	
+	Si la valeur enregistrée dans la zone mémoire nommée #reponse est égale à "A" alors
+		Afficher "Bravo, vous continuez sur le chemin du Million !".
+		
+		//Et ainsi de suite pour les autres questions
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 9 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 8 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 7 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 6 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 5 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 4 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 3 succès !".
+		?
+		Afficher "L'aventure est malheureusement terminée après 2 succès !".
+		?
+		et sinon
+		Afficher "L'aventure est malheureusement terminée après 1 succès !".
+		?
+		
+		et sinon
+		Afficher "L'aventure est malheureusement terminée, à bientôt !".
+		?
+		
+Fin de la transmission.

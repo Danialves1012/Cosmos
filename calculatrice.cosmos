@@ -1,0 +1,43 @@
+Auteur: pl89vsa
+Date: 11.10.2023
+Entreprise: DGEP
+Description: calculatrice
+
+Voici les ordres du programme calculatrice  :
+
+	Masquer le curseur.
+	Effacer l'écran.
+	
+	Créer une zone mémoire nommée #A.
+	Créer une zone mémoire nommée #B.
+	Créer une zone mémoire nommée #C.
+	Créer une zone mémoire nommée #resultat.
+
+	Afficher "Opérande A:".
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #A.
+	
+	Afficher "Opérande B:".
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #B.
+	
+	Afficher "Opérateur :".
+	Récupérer la saisie et la stocker dans la zone mémoire nommée #C.
+
+	Si #C est égal à "+" alors
+	#C = #A + #B.
+	Afficher "\nresultat : #C".
+	?
+	
+	Si #C est égal à "-" alors
+	#C = #A - #B.
+	Afficher "\nresultat : #C".
+	?
+	
+	Si #C est égal à "*" alors
+	#C = #A * #B.
+	Afficher "\nresultat : #C".
+	?
+	
+	
+	
+	
+Fin de la transmission.
